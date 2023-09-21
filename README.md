@@ -1,11 +1,11 @@
-<p align="center">
+<p align="right">
 	<a align="center" href="https://twitter.com/i/communities/1669220055907811330">🇮🇳/acc</a>
 </p>
-<p align="center">
-    <a align="center" href="https://twitter.com/i/communities/1669220055907811330">
+<p align="right">
+    <a href="https://twitter.com/i/communities/1669220055907811330">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./media/in-acc-dark.png">
-            <img src="./media/in-acc-light.png" height="150px">
+            <img src="./media/in-acc-light.png" height="250px">
         </picture>
     </a>
 </p>
