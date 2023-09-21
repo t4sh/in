@@ -1,10 +1,10 @@
 <p align="center">
     <a href="https://twitter.com/i/communities/1669220055907811330">
-        <h1 align="center">🇮🇳/acc</h1>
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./media/in-acc-dark.png">
-            <img src="./media/in-acc-light.png">
+            <img src="./media/in-acc-light.png" height="150px">
         </picture>
+        <h1 align="center">🇮🇳/acc</h1>
     </a>
 </p>
 
