@@ -4,8 +4,8 @@
 <p align="right">
     <a href="https://twitter.com/i/communities/1669220055907811330">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="./media/in-acc-dark.png">
-            <img src="./media/in-acc-light.png" height="250px">
+            <source media="(prefers-color-scheme: dark)" srcset="./media/in-acc-dark.svg">
+            <img src="./media/in-acc-light.svg" height="250px">
         </picture>
     </a>
 </p>
