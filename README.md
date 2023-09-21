@@ -1,6 +1,6 @@
 <p align="center">
 	<h1 align="center">🇮🇳/acc</h1>
-    <a href="https://twitter.com/i/communities/1669220055907811330">
+    <a align="center" href="https://twitter.com/i/communities/1669220055907811330">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="./media/in-acc-dark.png">
             <img src="./media/in-acc-light.png" height="150px">
